@@ -6,11 +6,6 @@ Nous avons utilisé Python pour créer différents types de simulations afin de 
 This project studies the population changes and the survival chance of different species with sole difference in their agression.
 We have used python to create different types of simulations to better view and understand the changes in populations.
 
-# Notre Groupe:
-![6d03cad1-ba67-4057-98e4-fe5b2a36349f (1)](https://github.com/are-dynamic-2024-g4/evo-de-la-population/assets/70648832/6b930028-9cf8-4144-8494-aecac2b6aa23)
-
-(Du gauche a droit)
-Efe Sozmen, Bugra Yucebas, Ege Arda Koksoy, Arda Pasali
 
 # Description Synthetique du Projet:
 
